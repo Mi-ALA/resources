@@ -8,3 +8,4 @@ UX resources compiled by Mi-ALA folks
 
 ## Other
 * [Library UX Chicago - Resources](http://libraryuxchicago.weebly.com/resources.html)
+* [Princeton University - LibGuides Page Organizing Script](http://libguides.princeton.edu/reusable/pos)
